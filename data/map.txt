@@ -1,10 +1,10 @@
 galaxy "Inconcevable I"
 	pos 1000 2300
-	sprite "ui/inconsevable i"
+	sprite "ui/inconsevable"
 
 galaxy "Inconcevable II"
 	pos 2000 2000
-	sprite "ui/inconsevable i"
+	sprite "ui/inconsevable"
 
 galaxy "inconcevable i label"
 	pos 1000 2300
