@@ -1,8 +1,8 @@
-galaxy "Inconcevable I"
+galaxy "inconcevable I"
 	pos 1000 2300
 	sprite "ui/inconsevable"
 
-galaxy "Inconcevable II"
+galaxy "inconcevable II"
 	pos 2000 2000
 	sprite "ui/inconsevable"
 
